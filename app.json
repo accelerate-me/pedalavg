@@ -1,0 +1,15 @@
+{
+    "name" : "Pedal",
+    "author": "Me",
+    "version": "0.1",
+    "description": "Das Pedal-Interface",
+    "directive": "pedal",
+    "domElement": "<pedal></pedal>",
+    
+    "css": {
+       "width": "400px", 
+       "height": "320px", 
+       "top": "200px", 
+       "left": "200px" },
+       "preserveAspectRatio" : true  
+  }

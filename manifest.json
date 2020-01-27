@@ -1,0 +1,8 @@
+{
+    "short_name": "Zoe-Demo: Beschleunigungsinterface",
+    "name": "Zoe-Demo: Beschleunigungsinterface",
+    "display": "fullscreen",
+    "theme_color": "#000",
+    "background_color": "#000",
+    "permissions" : ["unlimitedStorage"]
+  }
